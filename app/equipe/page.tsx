@@ -2,11 +2,11 @@ import Image from "next/image";
 
 export default function EquipePage() {
   const equipe = [
-    { nom: "Dr Yehia EL BENDARY", specialite: "Medical Director & Neurosurgeon", image: "/habebi.png" },
-    { nom: "Dr XXX", specialite: "Anesthésiste - Algologue", image: "/medecin2.png" },
-	{ nom: "Dr MMM", specialite: "Radiologue", image: "/medecin3.png" },
-    { nom: "YYY", specialite: "Psychologue", image: "/medecin4.png" },
-	{ nom: "ZZZ", specialite: "Kinésithérapeute", image: "/medecin5.png" }
+    { nom: "Dr Yehia EL BENDARY", specialite: "Medical Director & Neurosurgeon", image: "/habebi.PNG" },
+    { nom: "Dr XXX", specialite: "Anesthésiste - Algologue", image: "/medecin2.PNG" },
+	{ nom: "Dr MMM", specialite: "Radiologue", image: "/medecin3.PNG" },
+    { nom: "YYY", specialite: "Psychologue", image: "/medecin4.PNG" },
+	{ nom: "ZZZ", specialite: "Kinésithérapeute", image: "/medecin5.PNG" }
 	
   ];
 

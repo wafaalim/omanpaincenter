@@ -10,7 +10,7 @@ export default function Header() {
 
         {/* Logo + Texte */}
         <Link href="/" className="flex items-center space-x-2">
-          <Image src="/logo.png" alt="Oman Pain Center Logo" width={64} height={64} />
+          <Image src="/logo.PNG" alt="Oman Pain Center Logo" width={64} height={64} />
           <div>
 			<h1 className="text-logoBlue font-bold text-xl">OMAN PAIN CENTER</h1>
             <p className="text-logoBlue text-sm italic">A life without pain</p>
