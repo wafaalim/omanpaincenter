@@ -8,7 +8,7 @@ export default function Home() {
         At Oman Pain Center, we provide a multidisciplinary assessment and treatment to patients
         experiencing acute or chronic pain related to a wide variety of medical issues or physical
         injuries. Our pain specialists treat a wide spectrum of conditions and are considered
-        among the best pain management doctors in Dubai. Conditions treated at our center include
+        among the best pain management doctors in Mascate. Conditions treated at our center include
         but are not limited to:
       </p>
 
