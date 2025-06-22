@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function EquipePage() {
   const equipe = [
-    { nom: "Dr Yehia EL BENDARY", specialite: "Medical Director & Neurosurgeon", image: "/medecin2.PNG" },
+    { nom: "Dr Yehia EL BENDARY", specialite: "Medical Director & Neurosurgeon", image: "/Yehia.PNG" },
     { nom: "Dr XXX", specialite: "Anesthésiste - Algologue", image: "/medecin2.PNG" },
 	{ nom: "Dr MMM", specialite: "Radiologue", image: "/medecin3.PNG" },
     { nom: "YYY", specialite: "Psychologue", image: "/medecin4.PNG" },
