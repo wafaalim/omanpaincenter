@@ -37,7 +37,7 @@ export default function About() {
         <div className="flex flex-col items-center gap-8">
           <div>
             <Image
-              src=""
+              src="/images/Wafaa.PNG"
               alt="CEO Wafaa LIMOUNA"
               width={300}
               height={300}
@@ -47,7 +47,7 @@ export default function About() {
           </div>
           <div>
             <Image
-              src=""
+              src="/images/Yehia.PNG"
               alt="Dr. Yehia EL BENDARY, Neurosurgeon"
               width={300}
               height={300}
